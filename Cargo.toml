@@ -127,3 +127,4 @@ tendermint-proto                 = { git = "https://github.com/mina86/tendermint
 
 # Adds support for custom-entrypoint feature
 anchor-syn = { git = "https://github.com/mina86/anchor", branch = "custom-entrypoint" }
+target-dir = "/root/.cargo"
